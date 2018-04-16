@@ -1,2 +1,2 @@
 # uniProject
-# Search database for movies based of actors names,countries ,directors etc. and create a file with the results.
+# Search database for movies based on actors names,countries ,directors etc. and create a file with the results.
